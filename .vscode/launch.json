@@ -1,0 +1,483 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Q46_NumberPattern6",
+            "request": "launch",
+            "mainClass": "Q46_NumberPattern6",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q45_NumberPattern5",
+            "request": "launch",
+            "mainClass": "Q45_NumberPattern5",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q44_NumberPattern4",
+            "request": "launch",
+            "mainClass": "Q44_NumberPattern4",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q43_NumberPattern3",
+            "request": "launch",
+            "mainClass": "Q43_NumberPattern3",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q42_NumberPattern2",
+            "request": "launch",
+            "mainClass": "Q42_NumberPattern2",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q41_NumberPattern1",
+            "request": "launch",
+            "mainClass": "Q41_NumberPattern1",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q40_SwapDigits",
+            "request": "launch",
+            "mainClass": "Q40_SwapDigits",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q39_LeftmostDigitDivides",
+            "request": "launch",
+            "mainClass": "Q39_LeftmostDigitDivides",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q38_DecimalToHexadecimal",
+            "request": "launch",
+            "mainClass": "Q38_DecimalToHexadecimal",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q37_EvenOddDigitCheck",
+            "request": "launch",
+            "mainClass": "Q37_EvenOddDigitCheck",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q35_RightRotateNumber",
+            "request": "launch",
+            "mainClass": "Q35_RightRotateNumber",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q34_LeftRotateNumber",
+            "request": "launch",
+            "mainClass": "Q34_LeftRotateNumber",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q33_FrequencyDigits",
+            "request": "launch",
+            "mainClass": "Q33_FrequencyDigits",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q32_HarshadNumber",
+            "request": "launch",
+            "mainClass": "Q32_HarshadNumber",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q31_KaprekarNumber",
+            "request": "launch",
+            "mainClass": "Q31_KaprekarNumber",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q28_AmicableNumbers",
+            "request": "launch",
+            "mainClass": "Q28_AmicableNumbers",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q26_PerfectAbundantDeficient",
+            "request": "launch",
+            "mainClass": "Q26_PerfectAbundantDeficient",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q25_TriangularNumber",
+            "request": "launch",
+            "mainClass": "Q25_TriangularNumber",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q24_BetrothedNumbers",
+            "request": "launch",
+            "mainClass": "Q24_BetrothedNumbers",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q23_Factorial",
+            "request": "launch",
+            "mainClass": "Q23_Factorial",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q22_UglyNumber",
+            "request": "launch",
+            "mainClass": "Q22_UglyNumber",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q21_countTrailingZeros",
+            "request": "launch",
+            "mainClass": "Q21_countTrailingZeros",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q21",
+            "request": "launch",
+            "mainClass": "Q21",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "DiamondNumberPattern",
+            "request": "launch",
+            "mainClass": "DiamondNumberPattern",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "DiamondPattern",
+            "request": "launch",
+            "mainClass": "DiamondPattern",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "diamond_pattern",
+            "request": "launch",
+            "mainClass": "diamond_pattern",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_2ndHalf_Left",
+            "request": "launch",
+            "mainClass": "Rotate_2ndHalf_Left",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_2ndHalf",
+            "request": "launch",
+            "mainClass": "Rotate_2ndHalf",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "MinSwapsToBringKTogether",
+            "request": "launch",
+            "mainClass": "MinSwapsToBringKTogether",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "segregate_odd_eve",
+            "request": "launch",
+            "mainClass": "segregate_odd_eve",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "bitonic",
+            "request": "launch",
+            "mainClass": "bitonic",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "monotonic",
+            "request": "launch",
+            "mainClass": "monotonic",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern12",
+            "request": "launch",
+            "mainClass": "pattern12",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern11",
+            "request": "launch",
+            "mainClass": "pattern11",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern9",
+            "request": "launch",
+            "mainClass": "pattern9",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "AnagramNumber",
+            "request": "launch",
+            "mainClass": "AnagramNumber",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "greatest_digit_in_num",
+            "request": "launch",
+            "mainClass": "greatest_digit_in_num",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "positive_or_neg_bitwise",
+            "request": "launch",
+            "mainClass": "positive_or_neg_bitwise",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "divisibility_check_bitwise",
+            "request": "launch",
+            "mainClass": "divisibility_check_bitwise",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "odd_even_bitwise",
+            "request": "launch",
+            "mainClass": "odd_even_bitwise",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern7_v2",
+            "request": "launch",
+            "mainClass": "pattern7_v2",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "pattern7",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "pattern6",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "pattern5",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "pattern4",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern3",
+            "request": "launch",
+            "mainClass": "pattern3",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "pattern2",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "pattern1",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "reverse_a_sentence",
+            "request": "launch",
+            "mainClass": "reverse_a_sentence",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "prime_factors",
+            "request": "launch",
+            "mainClass": "prime_factors",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "odd_3n_plus_1_pattern",
+            "request": "launch",
+            "mainClass": "odd_3n_plus_1_pattern",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "palindrome_number",
+            "request": "launch",
+            "mainClass": "palindrome_number",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "reverse_number",
+            "request": "launch",
+            "mainClass": "reverse_number",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "square_cube",
+            "request": "launch",
+            "mainClass": "square_cube",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "matrix_0_count",
+            "request": "launch",
+            "mainClass": "matrix_0_count",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "matrix_multiples",
+            "request": "launch",
+            "mainClass": "matrix_multiples",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "vowels",
+            "request": "launch",
+            "mainClass": "vowels",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "electricity",
+            "request": "launch",
+            "mainClass": "electricity",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "add_check_even",
+            "request": "launch",
+            "mainClass": "add_check_even",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "add_sub_change_to_neg",
+            "request": "launch",
+            "mainClass": "add_sub_change_to_neg",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "calculator",
+            "request": "launch",
+            "mainClass": "calculator",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "case_checker",
+            "request": "launch",
+            "mainClass": "case_checker",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "date_checker",
+            "request": "launch",
+            "mainClass": "date_checker",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "divide_by_100",
+            "request": "launch",
+            "mainClass": "divide_by_100",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "divide_by_27",
+            "request": "launch",
+            "mainClass": "divide_by_27",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "leap_year",
+            "request": "launch",
+            "mainClass": "leap_year",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "washing_machine",
+            "request": "launch",
+            "mainClass": "washing_machine",
+            "projectName": "Pacement Training_daf910d0"
+        }
+    ]
+}
