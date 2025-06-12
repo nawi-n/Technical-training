@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Q65",
+            "request": "launch",
+            "mainClass": "Q65",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q62",
+            "request": "launch",
+            "mainClass": "Q62",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q61",
+            "request": "launch",
+            "mainClass": "Q61",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q60",
+            "request": "launch",
+            "mainClass": "JAVA.labsession_pdf.Q60",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q60",
+            "request": "launch",
+            "mainClass": "Q60",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
+            "name": "Q51_XYMovement",
+            "request": "launch",
+            "mainClass": "Q51_XYMovement",
+            "projectName": "Pacement Training_daf910d0"
+        },
+        {
+            "type": "java",
             "name": "Q46_NumberPattern6",
             "request": "launch",
             "mainClass": "Q46_NumberPattern6",
